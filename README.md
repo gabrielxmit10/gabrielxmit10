@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **gabrielxmit10/gabrielxmit10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Test
+
+Doubt not, fear not, and know. Knowledge will save all.
+
+## About Me
+
+Always learning... I think.
