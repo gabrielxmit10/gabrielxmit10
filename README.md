@@ -20,8 +20,8 @@ Doubt not, fear not, and know. Knowledge will save all.
 Always learning... I think.
 
 ## Personal Projects
-- 🚹 **[Puppet Video Clip]**: [Music video clip made in p5.js of the song *"Puppet"* by John Michael Howell](https://github.com/gabrielxmit10/Puppet_Video_Clip.git)
-- 📖 **[VocabLearn Optimizer]**: [Code to help you find the best order of books to learn the most new words when seeing them at first](https://github.com/gabrielxmit10/Vocabulary_Learning_OTM.git)
+- ⭐ **[Puppet Video Clip]**: [Music video clip made in p5.js of the song *"Puppet"* by John Michael Howell](https://github.com/gabrielxmit10/Puppet_Video_Clip.git)
+- ⭐ **[Vocab Learn Optimizer]**: [Code to help you find the best order of books to learn the most new words when seeing them at first](https://github.com/gabrielxmit10/Vocabulary_Learning_OTM.git)
 
 ## Find me at
 - *LinkedIn*: [https://www.linkedin.com/in/gabriel-schmitz27/](https://www.linkedin.com/in/gabriel-schmitz27/)
